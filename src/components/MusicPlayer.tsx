@@ -8,7 +8,7 @@ const MusicPlayer = () => {
   const audioRef = useRef<HTMLAudioElement>(null);
 
   // Yüreğimden Tut - Eylem Aktaş
-  const musicUrl = "/Eylem-Aktaş-Yüreğimden-Tut.mp3";
+  const musicUrl = "/muzik.mp3";
 
   useEffect(() => {
     if (audioRef.current) {

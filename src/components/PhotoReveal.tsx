@@ -27,7 +27,7 @@ const PhotoReveal = ({ onContinue }: PhotoRevealProps) => {
             transition={{ duration: 1.5, delay: 0.5 }}
           >
             <img
-              src="/gerçek gülüm.jpeg"
+              src="/gercek-gulum.jpeg"
               alt="Meleğim"
               className="w-full h-full object-cover"
             />
